@@ -19,7 +19,7 @@ While the game is **not open-source**, you are welcome to:
 
 🌐 **Play at**: [https://wakawaka.iamivanwu.com](https://wakawaka.iamivanwu.com)  
 🧪 **Status**: Closed Beta – Invite Code Required  
-💌 **Want to join?** [Fill out this form](#) or contact [contact@iamivanwu.com](mailto:contact@iamivanwu.com)
+💌 **Want to join?** contact [contact@iamivanwu.com](mailto:contact@iamivanwu.com)
 
 ---
 
