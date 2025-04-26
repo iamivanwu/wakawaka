@@ -1,12 +1,12 @@
 # 🕹 Wakawaka - Dev Tracker & Feedback
 
-> A pixel-style idle RPG powered by your code time  
-> 🎮 Build your character with real coding, fight monsters, and grow daily.  
+> A pixel-style idle RPG powered by your coding time  
+> 🎮 Build your character with real coding, fight bosses, and grow daily.  
 > 🔒 Currently in **Closed Beta** — invite only.
 
 ---
 
-This repository is used to track bugs, collect suggestions, and connect with early users of **Wakawaka**.  
+This repository is for **tracking bugs, gathering feedback, and engaging with early testers** of **Wakawaka**.  
 While the game is **not open-source**, you are welcome to:
 
 - ⭐ Star the project to support development
@@ -19,24 +19,37 @@ While the game is **not open-source**, you are welcome to:
 
 🌐 **Play at**: [https://wakawaka.iamivanwu.com](https://wakawaka.iamivanwu.com)  
 🧪 **Status**: Closed Beta – Invite Code Required  
-💌 **Want to join?** contact [contact@iamivanwu.com](mailto:contact@iamivanwu.com)
+💌 **Want to join?** Contact [contact@iamivanwu.com](mailto:contact@iamivanwu.com)
+
+---
+
+## 🎮 Current Features
+
+- 🛡️ **Google OAuth login** + **WakaTime binding**
+- 🔄 **Daily updates** based on your coding activity
+- ⚔️ **Boss fights**: collective coding effort damages the boss
+- 🏆 **Leaderboard**: see top contributors to the boss fight
+- 🎨 **Pixel-style characters** that move on screen
+- 📝 **Customizable profile**: set your name, greeting
+- 📊 **Language skill breakdown** with progress bars
 
 ---
 
 ## 🧭 Roadmap
 
-We’re currently working on:
+Working on next:
 
-- ✨ Equipment system & daily bonus logic
-- 🐉 Boss fights with collective progress
-- 🧙 Custom profile view
+- ✨ **Equipment system**: enhance XP gain and battle bonuses
+- 🐉 **Boss mechanics**: loot drops, and collective battles
+- 🧙 **Profile enhancements**: draggable windows, saved positions
+- 💬 **Community chat** and social features
 
 ---
 
 ## 📌 Note on Source Code
 
 Wakawaka is a personal side project by [@iamivanwu](https://github.com/iamivanwu).  
-The source code is currently **not open to the public**, but may be partially released in the future.
+The source code is currently **not open-source**, but may be partially shared in the future.
 
 ---
 
@@ -48,4 +61,4 @@ Have feedback or want to collaborate?
 
 ---
 
-🌱 Code today, level up tomorrow.
+🌱 **Code today, level up tomorrow.**
