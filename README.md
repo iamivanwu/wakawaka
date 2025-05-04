@@ -58,6 +58,12 @@ Questions, feedback, or ideas?
 
 ## 📈 Changelog Highlights
 
+### v1.0.1 · 2025-05-04
+
+- Boss HP scaling adjusted for increasing player base
+- WakaTime API usage optimized to avoid 429 errors
+- Added reminder in WakaTime settings to set correct time zone
+
 ### v1.0.0 · 2025-05-04
 
 - 🔓 Public Sign-Up: Invite code is no longer required — registration is now open to all
