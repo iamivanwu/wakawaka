@@ -2,6 +2,12 @@
 
 All notable changes to **Wakawaka** will be documented here.
 
+## v1.0.2 · 2025-05-05
+
+### 🛠️ Fixed
+
+- Resolved `401 Unauthorized` errors by prompting affected users to reauthorize WakaTime
+
 ---
 
 ## v1.0.1 · 2025-05-04
@@ -11,6 +17,8 @@ All notable changes to **Wakawaka** will be documented here.
 - Boss HP scaling adjusted for increasing player base
 - WakaTime API usage optimized to avoid 429 errors
 - Added reminder in WakaTime settings to set correct time zone
+
+---
 
 ## v1.0.0 · 2025-05-04
 

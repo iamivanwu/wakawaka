@@ -58,6 +58,10 @@ Questions, feedback, or ideas?
 
 ## 📈 Changelog Highlights
 
+### v1.0.2 · 2025-05-05
+
+- Resolved `401 Unauthorized` errors by prompting affected users to reauthorize WakaTime
+
 ### v1.0.1 · 2025-05-04
 
 - Boss HP scaling adjusted for increasing player base
