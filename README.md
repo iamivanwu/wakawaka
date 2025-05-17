@@ -58,6 +58,9 @@ Questions, feedback, or ideas?
 
 ## 📈 Changelog Highlights
 
+### v1.1.0 · 2025-05-17
+  - Players’ names on the Boss Card are now clickable.
+
 ### v1.0.2 · 2025-05-05
 
 - Resolved `401 Unauthorized` errors by prompting affected users to reauthorize WakaTime
@@ -74,17 +77,6 @@ Questions, feedback, or ideas?
 - 🗞️ Wakawaka Bulletin: New announcement section
 - 🧑‍🎨 New Characters Added: Three new pixel-style characters are now available for selection
 - 📈 Experience table rebalanced
-
-### v0.5.1 · 2025-05-02
-
-- 🕹️ Game Guide now reminds players to check WakaTime time zone settings
-- 💥 Boss mechanics updated: “hate” languages now dynamically selected
-
-### v0.5.0 · 2025-05-01
-
-- 🏅 Pioneer badge granted to early players
-- 🎨 Custom name color for player profiles
-- 🧱 Leveling system rebalanced for smoother early progression
 
 ➡️ [See full changelog »](./CHANGELOG.md)
 

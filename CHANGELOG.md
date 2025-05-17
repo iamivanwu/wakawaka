@@ -2,6 +2,16 @@
 
 All notable changes to **Wakawaka** will be documented here.
 
+---
+
+## v1.1.0 · 2025-05-17
+
+### ✨ Added
+
+  - Players’ names on the Boss Card are now clickable.
+
+---
+
 ## v1.0.2 · 2025-05-05
 
 ### 🛠️ Fixed
