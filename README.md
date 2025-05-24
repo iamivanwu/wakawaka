@@ -58,18 +58,14 @@ Questions, feedback, or ideas?
 
 ## 📈 Changelog Highlights
 
+### v1.2.0 · 2025-05-24
+
+- Introduced **Pomodoro Timer** to help Wakans stay focused.
+- Completing **3 Pomodoros** grants a **bonus damage boost** against bosses.
+
 ### v1.1.0 · 2025-05-17
-  - Players’ names on the Boss Card are now clickable.
 
-### v1.0.2 · 2025-05-05
-
-- Resolved `401 Unauthorized` errors by prompting affected users to reauthorize WakaTime
-
-### v1.0.1 · 2025-05-04
-
-- Boss HP scaling adjusted for increasing player base
-- WakaTime API usage optimized to avoid 429 errors
-- Added reminder in WakaTime settings to set correct time zone
+- Players’ names on the Boss Card are now clickable.
 
 ### v1.0.0 · 2025-05-04
 

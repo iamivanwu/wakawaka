@@ -4,11 +4,20 @@ All notable changes to **Wakawaka** will be documented here.
 
 ---
 
+## v1.2.0 · 2025-05-24
+
+### ✨ Added
+
+- Introduced **Pomodoro Timer** to help Wakans stay focused.
+- Completing **3 Pomodoros** grants a **bonus damage boost** against bosses.
+
+---
+
 ## v1.1.0 · 2025-05-17
 
 ### ✨ Added
 
-  - Players’ names on the Boss Card are now clickable.
+- Players’ names on the Boss Card are now clickable.
 
 ---
 
