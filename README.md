@@ -1,4 +1,4 @@
-# 🕹 Wakawaka - Dev Tracker & Feedback (v1.0.0)
+# 🕹 Wakawaka - Dev Tracker & Feedback (v1.2.0)
 
 > A pixel-style idle RPG powered by your coding time  
 > 🎮 Build your character with real coding, fight bosses, and level up every day

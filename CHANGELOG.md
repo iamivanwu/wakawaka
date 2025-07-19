@@ -4,6 +4,22 @@ All notable changes to **Wakawaka** will be documented here.
 
 ---
 
+## v1.2.2 · 2025-07-19
+
+### 🛠️ Fixed
+
+- Fixed leaderboard tab not displaying correctly after switching.
+
+---
+
+## v1.2.1 · 2025-05-24
+
+### 🛠️ Fixed
+
+- A mysterious issue caused by a developer spilling coffee on the keyboard. It has been wiped clean. ☕
+
+---
+
 ## v1.2.0 · 2025-05-24
 
 ### ✨ Added
