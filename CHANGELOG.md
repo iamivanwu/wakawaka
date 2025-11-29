@@ -4,6 +4,14 @@ All notable changes to **Wakawaka** will be documented here.
 
 ---
 
+## v1.3.0 · 2025-11-29
+
+### ✨ Added
+
+- Highlght current user ranking in boss leaderboard.
+
+---
+
 ## v1.2.2 · 2025-07-19
 
 ### 🛠️ Fixed

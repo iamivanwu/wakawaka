@@ -1,4 +1,4 @@
-# 🕹 Wakawaka - Dev Tracker & Feedback (v1.2.0)
+# 🕹 Wakawaka - Dev Tracker & Feedback (v1.3.0)
 
 > A pixel-style idle RPG powered by your coding time  
 > 🎮 Build your character with real coding, fight bosses, and level up every day
@@ -52,11 +52,15 @@ While not open-source at this time, this repository serves as a **public tracker
 
 Questions, feedback, or ideas?
 
-- ✉️ [contact@iamivanwu.com](mailto:contact@iamivanwu.com)
+- ✉️ [iamivanwu1002@gmail.com](mailto:iamivanwu1002@gmail.com)
 
 ---
 
 ## 📈 Changelog Highlights
+
+### v1.3.0 · 2025-11-29
+
+- Highlght current user ranking in boss leaderboard.
 
 ### v1.2.0 · 2025-05-24
 
